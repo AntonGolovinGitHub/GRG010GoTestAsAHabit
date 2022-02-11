@@ -1,1 +1,1 @@
-# GRG010GoTestAsAHabit
+Please note that GoTestAsAHabit contains a Go program.
